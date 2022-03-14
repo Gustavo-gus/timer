@@ -1,1 +1,1 @@
-# timer
+# timer made with pure JavaScript
